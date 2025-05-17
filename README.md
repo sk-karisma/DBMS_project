@@ -1,4 +1,4 @@
-# Hospital Management System – DBMS Project
+# Hospital Management System – DBMS
 
 ## Project Overview
 
