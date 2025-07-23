@@ -1,12 +1,12 @@
-# Hospital Management System – DBMS
+# Hospital Management System –  DBMS
 
 ## Project Overview
 
 The Hospital Management System is a comprehensive database-driven application designed to streamline the operational, administrative, and clinical functions of a hospital. The system facilitates efficient management of patient records, appointments, billing, doctor scheduling, test results, and room assignments.
 
-This solution improves hospital productivity by reducing manual paperwork, minimizing administrative delays, and ensuring secure and quick access to centralized medical data.
+This solution improves hospital productivity by reducing manual paperwork, minimizing administrative delays, and ensuring secure and quick access to centralized medical data . The system is designed with scalability and modularity in mind, making it adaptable to future enhancements and integrations.
 
-## Abstract
+##  Abstract
 
 This project aims to develop a robust Hospital Management System using database concepts and web technologies. Key features include:
 
@@ -19,19 +19,19 @@ This project aims to develop a robust Hospital Management System using database 
 
 By leveraging a relational database approach, the system ensures data integrity, supports multi-user access, and enhances operational efficiency for healthcare institutions of all sizes.
 
-## Project Artifacts
+##  Project Artifacts
 
-### Documentation
+###  Documentation
 
 - Software Requirements Specification (SRS)
 - Project Questionnaire
 
-### Reference Links
+###  Reference Links
 
 - [SRS Document](https://ssneduin-my.sharepoint.com/:b:/g/personal/karisma23110270_snuchennai_edu_in/ETfXKviJ7fBDrOyzqxmj31cBo63BNrbbf43Bu-p1d1MNHQ?e=Z0n1ir)  
 - [Questionnaire](https://ssneduin-my.sharepoint.com/:w:/g/personal/karisma23110270_snuchennai_edu_in/Ed6wNcqrihtLnQVJc_DYkYABi_PFrrmtfi6ugv27qrEsDw?e=okM4VA)
 
-## System Diagrams
+##  System Diagrams
 
 - Entity-Relationship (ER) Diagram
 - Class Diagram
@@ -42,16 +42,16 @@ By leveraging a relational database approach, the system ensures data integrity,
   - Doctor Login
   - Admin Login
 
-## Key Features
+##  Key Features
 
 - Centralized data access for medical staff and administration
 - Real-time patient record management
 - Appointment booking and tracking
 - Automated billing and payment status
 - Scalable for both small clinics and large hospitals
-- Role-based login and session handling
+- Role - based login and session handling
 
-## Technologies Used
+##  Technologies Used
 
 - **Modeling Tools**: ERD and UML diagramming software for system design.
 - **MySQL (RDBMS)**: Used for designing and modeling the relational database schema.
@@ -60,15 +60,15 @@ By leveraging a relational database approach, the system ensures data integrity,
 - **FastAPI**: Handles backend logic and serves RESTful APIs for data integration.
 - **Python**: Core programming language for both frontend and backend.
 
-## Future Enhancements
+##  Future Enhancements
 
-- Development of web/mobile access via user accounts and credentials
+- Development of web / mobile access via user accounts and credentials
 - Integration with biometric or RFID-based identification
 - AI-powered patient triage and diagnostic support
 - Analytics dashboards for hospital performance tracking
 - Multi-hospital and cloud-based deployment support
 
-## Contributors
+##  Contributors
 
 - S K Karisma – 23011101119  
 - S Meghna – 23011101122  
