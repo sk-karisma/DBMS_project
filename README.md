@@ -56,7 +56,6 @@ By leveraging a relational database approach, the system ensures data integrity,
 - **Modeling Tools**: ERD and UML diagramming software for system design.
 - **MySQL (RDBMS)**: Used for designing and modeling the relational database schema.
 - **Streamlit**: Builds the interactive user interface for patients, doctors, and admins.
-- **HTML & CSS**: Embedded for layout styling and UI customization within Streamlit.
 - **FastAPI**: Handles backend logic and serves RESTful APIs for data integration.
 - **Python**: Core programming language for both frontend and backend.
 
